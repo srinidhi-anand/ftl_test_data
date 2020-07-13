@@ -25,7 +25,11 @@ SECRET_KEY = '^2-tlcrjheda+qzqnxajdzl-t2c-uxy(p*1&ivplri)ws@4qhc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'https://restpython.herokuapp.com/',
+                  'https://restpython.herokuapp.com/users/',
+                  'https://sri143.pythonanywhere.com',
+                  'https://sri143.pythonanywhere.com/users/',
+                ]
 
 
 # Application definition
