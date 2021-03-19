@@ -7,7 +7,7 @@ bs4==0.0.1
 distlib==0.3.0
 Django==3.0.2
 django-timedeltafield==0.7.10
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 Faker==4.1.1
 ffmpeg==1.4
 ffprobe==0.5
