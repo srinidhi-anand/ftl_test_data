@@ -5,7 +5,7 @@ black==19.10b0
 blis==0.2.4
 bs4==0.0.1
 distlib==0.3.0
-Django==3.0.2
+Django==3.0.14
 django-timedeltafield==0.7.10
 djangorestframework==3.11.0
 Faker==4.1.1
