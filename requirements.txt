@@ -56,7 +56,7 @@ regex==2020.6.8
 requests==2.22.0
 Rx==1.6.1
 schedule==0.6.0
-Scrapy==2.1.0
+Scrapy==2.5.1
 service-identity==18.1.0
 soupsieve==2.0
 spacy==2.1.9
