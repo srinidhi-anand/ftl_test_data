@@ -68,4 +68,4 @@ urllib3==1.25.6
 uuid==1.30
 virtualenv==20.0.20
 w3lib==1.21.0
-waitress==1.4.2
+waitress==2.1.1
