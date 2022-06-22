@@ -37,7 +37,7 @@ murmurhash==1.0.2
 mysql-connector==2.2.9
 mysqlclient==1.4.4
 nltk==3.4.5
-numpy==1.17.3
+numpy==1.22.0
 python-dateutil==2.7.5
 python-vlc==3.0.7110
 pytz==2019.3
